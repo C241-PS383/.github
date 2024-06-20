@@ -11,7 +11,7 @@ We're Capstone Team (C241-PS383) from Bangkit Academy led by Google, Tokopedia, 
 |        Type        |                                Link                                |               Tools                |
 | :----------------: | :----------------------------------------------------------------: | :--------------------------------: |
 |  Cloud Computing   |    [Github Repo](https://github.com/C241-PS383)                    | Java Script, Google Cloud Platform |
-|  Machine Learning  |    [Github Repo](https://github.com/C241-PS383)                    |    Tensorflow, Jupyter Notebook    |
+|  Machine Learning  |    [Github Repo](https://github.com/C241-PS383/asterisk-machine-learning)                    |    Tensorflow, Jupyter Notebook    |
 | Mobile Development |    [Github Repo](https://github.com/C241-PS383/asterisk-android)   |       Kotlin, Android Studio       |
 
 ## Team Members
