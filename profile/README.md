@@ -1,5 +1,5 @@
 # Asterisk
-![Asterisk Banner]()
+![Asterisk Banner](https://github.com/C241-PS383/.github/blob/main/Banner.jpg)
 <br/>
 <br/>
 <p align="justify">
